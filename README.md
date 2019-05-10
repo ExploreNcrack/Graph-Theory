@@ -11,4 +11,9 @@ Modeling problem as a graph is a very important technique in problem solving. Si
   <li>V is a set whose elements are called vertices, nodes, or points;</li>
   <li>A is a set of ordered pairs of vertices, called arrows, directed edges (sometimes simply edges with the corresponding set named E instead of A), directed arcs, or directed lines.</li>
 </ul>
-</p
+</p>
+<h2>References</h2>
+https://en.wikipedia.org/wiki/Directed_graph
+https://www8.cs.umu.se/kurser/TDBA77/VT06/algorithms/BOOK/BOOK2/NODE72.HTM
+https://medium.com/tebs-lab/modeling-problems-as-graphs-6ab451f03868
+https://study.com/academy/lesson/graphs-in-discrete-math-definition-types-uses.html
