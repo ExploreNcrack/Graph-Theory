@@ -22,6 +22,7 @@ Adjacency matrix for **undirected graph** is always **symmetric**. Adjacency Mat
   - **Queries** like whether there is an edge from vertex ‘u’ to vertex ‘v’ are efficient and can be done **O(1)** constant time.
 ### Cons(Disadvantage)
 - Consumes more **space O(V<sup>2</sup>)**
-- Even if the graph is **sparse**(*contains less number of edges, the matrix has lots of 0*) which is wasting lots of memory, it consumes the same space. Adding a vertex is **O(V<sup>2</sup>) time**.
+- Even if the graph is **sparse**(*contains less number of edges, the matrix has lots of 0*) which is wasting lots of memory, it consumes the same space. 
+- Adding a vertex is **O(V<sup>2</sup>) time**.
 ### Reference
 https://www.geeksforgeeks.org/graph-and-its-representations/
