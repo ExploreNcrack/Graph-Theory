@@ -27,3 +27,4 @@ Adjacency matrix for **undirected graph** is always **symmetric**. Adjacency Mat
 - **Adding a vertex** is **O(V<sup>2</sup>) time**.
 ### Reference
 https://www.geeksforgeeks.org/graph-and-its-representations/
+https://interactivepython.org/courselib/static/pythonds/Graphs/AnAdjacencyMatrix.html
