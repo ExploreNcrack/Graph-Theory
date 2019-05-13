@@ -25,6 +25,7 @@ Adjacency matrix for **undirected graph** is always **symmetric**. Adjacency Mat
 - Consumes more **space O(V<sup>2</sup>)**
 - Even if the graph is **sparse**(*contains less number of edges, the matrix has lots of 0*) which is wasting lots of memory, it consumes the same space. (**A matrix is not a very efficient way to store sparse data.**)
 - **Adding a vertex** is **O(V<sup>2</sup>) time**.
+- Few real problems that approach full connectivity graph.
 ### Reference
 https://www.geeksforgeeks.org/graph-and-its-representations/
 https://interactivepython.org/courselib/static/pythonds/Graphs/AnAdjacencyMatrix.html
